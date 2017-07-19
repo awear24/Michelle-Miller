@@ -42,7 +42,7 @@
 		<p><strong>Goals:</strong>
 			Michelle's goal is to streamline her work flow and to get her work out there in the most effective cost efficient way.</p>
 
-		<p><strong>Use Story:</strong></p>
+		<h2><strong>Use Story:</strong></h2>
 		<p>As a user I want have a web site that will reflect me and my work</p>
 
 		<h2><strong>Use Case:</strong></h2>
@@ -51,27 +51,38 @@
 
 		<h2><strong>Interaction</strong></h2>
 		<ul>
-			<li>User has logged,web page uploads site, user than navigates to inventory listings,web page uploads listing, user opens excel and
-				website auto populates, prices, user enters new prices into cells, web page updates and loads new values.</li>
-			<li>User has logged in, web page acknowledges,user navigates to inventory updates several designs, web page saves and auto populates updated lists.</li>
-			<li>User has logged on, navigates to customer feedback,web page acknowledges and auto populates client list/comments,user navigates to custom orders tab,
-				finds and selects client,sends message,hits send, web page captures/sends.</li>
-			<li>User is logged on to site, navigates the shipping tab,web site acknowledges, auto populates shipping preferences, user picks one,
-				web site launches preference, user fills out drop down menus and hits send, web site and confirms with second verification and send confirmation back to user.</li>
-			<li>User has logged on, web site confirms,user navigates to up load page, inserts jeps,web site deploys them, user updates inventory jeps and confiirms,
-				website acknowledges and post new pictures of inventory on site</li>
-			<li>User logs on, web page acknowledges,sends alert,user reads and replies to buyer(s), web page then acknowledges and sends will need to buyer</li>
+			<li>Michelle has logged on to Michelle's website</li>
+			<li>Web pages uploads</li>
+			<li>Seller clicks on downloads picture work they want add on web site</li>
+			<li>Web site uploads the picture</li>
+			<li>Seller inputs information and pricing on new item</li>
+			<li>Web page acknowledges and updates</li>
+			<li>Seller clicks the drop down menu and updates inventory for the type of Art work added</li>
+			<li>Web then auto populates a list of current inventory in the drop down menu</li>
+			<li>Seller then updates product description on  list</li>
+			<li>Web site acknowledged and asks description type</li>
+			<li>Seller then choose type of meduim </li>
+			<li>Web site acknowledges and ask what type of medium.</li>
+			<li>Seller inputs the description</li>
+			<li>Web site acknowledges and auto-populates and ask sellar to confirm</li>
+			<li>Seller confirms</li>
+			<li>Web site acknowledges and then ask a shipping weight</li>
+			<li>Seller inputs shipping weight</li>
+			<li>Website acknowledges and updates information</li>
+			<li>Seller refreshes page to update information</li>
+			<li>Web site acknowledges and updates</li>
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
-		<h3>Profile</h3>
+
+		<h2>Product Profile</h2>
 		<ul>
-			<li>profield(primary key)</li>
-			<li>profileActivationToken(for account verification</li>
+			<li>profileId(primary key)</li>
+			<li>profileActivationToken(for account verification)</li>
 			<li>profileHandle</li>
-			<li>profileEmail<li>
-			<li>profileHash(for account password)</li>
-			<li>profilePhone<li>
-			<li>profileSalt(for account password)</li>
+			<li>profileEmail</li>
+			<li>profileHash</li>
+			<li>profilePhone</li>
+			<li>profileSalt</li>
 		</ul>
 		<h3>Product</h3>
 		<p>User logged on,web acknowledges,user navigates to inventory tab,web page auto populates inventory materials,
