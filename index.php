@@ -12,7 +12,7 @@
 		<p><strong>Profession:</strong></p>
 		<ul>
 			<li>Michelle is a printmaker specializing in lithography, mixed media artist, she is a business owner.</li>
-			<li>Michelle is represented in several galleries in US and Europe.</li>
+			<li>Michelle is represented by several galleries in US and Europe.</li>
 			<li>Michelle is also a teacher at a community college.</li>
 			<li>She recently was granted of 5000.00 for Printmaking residency in Spain.</li>
 		</ul>
