@@ -76,8 +76,16 @@
 			<li>Web site acknowledges and updates</li>
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
-
-		<h2>Product</h2>
+		<ul>
+			<li>Multiple users can comment on multiple prices</li>
+			<li>One profile can list multiple prices</li>
+			<li>One profile can list multiple designs</li>
+			<li>Multiple users comment on custom orders</li>
+			<li>Multiple users can have select shipping preferences</li>
+			<li>One profile can show multiple pictures</li>
+			<li>Multiple users can reply/comment with buyer</li>
+		</ul>
+<h2>Product</h2>
 		<ul>
 			<li>profileId(primary key)</li>
 			<li>profileActivationToken(for account verification)</li>
