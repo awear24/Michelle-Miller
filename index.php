@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<p><strong>Persona</strong></p>
-		<p><strong>Name:</strong>Michell-Miller</p>
+		<p><strong>Name:</strong>Michelle-Miller</p>
 		<h2><img class="Michelle-Miller-image" src="images/michelle miller .jpg" alt="Michelle"/></h2>
 		<p><strong>Age:</strong>42</p>
 
