@@ -10,9 +10,12 @@
 		<p><strong>Age:</strong>42</p>
 
 		<p><strong>Profession:</strong></p>
-		<p>Michelle is a printmaker specializing in lithography, mixed media artist, she is a business owner. Michelle is represented in several galleries in US and Europe.
-			Michelle is also a teacher at a community college. She recently was granted of 5000.00 for Printmaking residency in Spain.
-		</p>
+		<ul>
+			<li>Michelle is a printmaker specializing in lithography, mixed media artist, she is a business owner.</li>
+			<li>Michelle is represented in several galleries in US and Europe.</li>
+			<li>Michelle is also a teacher at a community college.</li>
+			<li>She recently was granted of 5000.00 for Printmaking residency in Spain.</li>
+		</ul>
 
 		<p><strong>Technology:</strong></p>
 
