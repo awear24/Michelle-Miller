@@ -74,7 +74,7 @@
 		</ul>
 		<h2><strong>Conceptual</strong></h2>
 
-		<h2>Product Profile</h2>
+		<h2>Product</h2>
 		<ul>
 			<li>profileId(primary key)</li>
 			<li>profileActivationToken(for account verification)</li>
@@ -85,7 +85,10 @@
 			<li>profileSalt</li>
 		</ul>
 		<h3>Product</h3>
-		<p>User logged on,web acknowledges,user navigates to inventory tab,web page auto populates inventory materials,
-			user updates tab,web site updates of product.</p>
-
+		<ul>
+		<li>productId#</li>
+		<li>productSize</li>
+		<li>productDescription</li>
+		<li>productPricing</li></ul>
+	</body>
 </html>
