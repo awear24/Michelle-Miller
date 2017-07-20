@@ -56,9 +56,9 @@
 		<ul>
 			Michelle heard of 2Gsolution thru another artist whom we build a site for. Michelle friend called a and left me a message with her number. I called Michelle back and asked to set up a meeting.
 		   We met at StarBucks and I gave Michelle the questioner that we give all propestive clients. Which identifies, needs, wants, how they a currently use computer/internet, for her business and also asked about Michelle's aesthetics
-			Taking the assesment Michelle realize that she <li>1. Didnt have a business</li>
-			<li>2. social media platform was non exsistant,</li> <li>3. daily operation could be streamed thru a web site to minimize her/assist work load.</li>                                                                                                                                                                                                        upload her works to prospective clients, galleries, work and network with other artists.Michelle has little time but her
-			<li>4.Find a assistant will be taking over those duties </li>
+			Taking the assesment Michelle realize that she <li>1. Didnt have a business social media platform it was non exsistant</li>
+			<li>2. Daily operation could be streamed thru a web site to minimize her/assist work load.</li>                                                                                                                                                                                                        upload her works to prospective clients, galleries, work and network with other artists.Michelle has little time but her
+			<li>3.Find a assistant will be taking over those duties </li><li>4.Increase productivity</li>
 		</ul>
 
 		<h2><strong>Interaction</strong></h2>
