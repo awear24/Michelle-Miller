@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<!-- meta charset here -->
 		<title>Persona</title>
 	</head>
 	<body>
 		<p><strong>Persona</strong></p>
 		<p><strong>Name:</strong>Michelle-Miller</p>
-		<h2><img class="Michelle-Miller-image" src="images/michelle miller .jpg" alt="Michelle"/></h2>
+		<h2><img class="Michelle-Miller-image" src="public_html/images/michelle miller .jpg" alt="Michelle"/></h2>
 		<p><strong>Age:</strong>42</p>
 
 		<p><strong>Profession:</strong></p>
@@ -25,14 +26,12 @@
 				at 60Hz,Operating System MacOS High Sierra. She also has a Wacom Intuos Art Pen and Touch Tablet for when she is in class or at the studio.
 				Michelle has an iPhone6S 5.5 128GB,44inch Epson Stylus Pro 9900,
 			</li>
-			<li> Michelle pays $129.90 a month for internet and which gives her internet access and phone.</li>
-		</ul>
+					</ul>
 		<p><strong>Attitudes and Behaviors:</strong></p>
 		<ul>
 			<li>Due to the nature of Michelle businesses she has to be proficient with technology it part of her skill set as an artist she is classified as an
-				avid technology user.</li>
-						<li>Michelle needs her business to run efficiently, and needs to keep in contact with her assistant she while away, galleries need to be able stay in contact
-				with them as well.</li>
+				avid technology user. Michelle needs her business to run efficiently, and needs to keep in contact with her assistant she while away, galleries need to be able stay in contact
+				with With her busy schedule Michell</li>
 		</ul>
 		<p><strong>Frustrations and Needs:</strong></p>
 		<ul>
@@ -42,15 +41,25 @@
 			<li>Michelle needs her business to run efficiently, and needs to keep in contact with her assistant she while away, galleries need to be able stay in
 				contact with them while traveling</li>
 		</ul>
-		<p><strong>Goals:</strong>
-			Michelle's goal is to streamline her work flow and to get her work out there in the most effective cost efficient way.</p>
+		<p><strong>Goals:</strong></p>
+			<p>Michelle's goal is to streamline her work flow and to get her work out there in the most effective cost efficient way.
+				She has gotten very busy in the past few months and has hired a assistant to help her while she is way on sabbatical.
+				Michelle needs a stonger eletronic presence, her business is getting very busy and she wants and needs a professional look on online</p>
 
 		<h2><strong>Use Story:</strong></h2>
-		<p>As a user I want have a web site that will reflect me and my work</p>
+		<p>Michelle even though she is an avid user has little time. She hired a temporary assist wondering if she should hire her full time.  Michelle heard of 2Gsoultion work
+			thru her a friend who recently had a web page built. Michelle had little to none online presence. She heard about questioner we give all prospective clients it help  her friend
+			and thought it could point out what the companies needed and or up their productity.</p>
 
 		<h2><strong>Use Case:</strong></h2>
 
-		<p>Due to her busy schedule life Michelle will use the website upload her works to prospective clients, galleries, work and network with other artists.</p>
+		<ul>
+			Michelle heard of 2Gsolution thru another artist whom we build a site for. Michelle friend called a and left me a message with her number. I called Michelle back and asked to set up a meeting.
+		   We met at StarBucks and I gave Michelle the questioner that we give all propestive clients. Which identifies, needs, wants, how they a currently use computer/internet, for her business and also asked about Michelle's aesthetics
+			Taking the assesment Michelle realize that she <li>1. Didnt have a business</li>
+			<li>2. social media platform was non exsistant,</li> <li>3. daily operation could be streamed thru a web site to minimize her/assist work load.</li>                                                                                                                                                                                                        upload her works to prospective clients, galleries, work and network with other artists.Michelle has little time but her
+			<li>4.Find a assistant will be taking over those duties </li>
+		</ul>
 
 		<h2><strong>Interaction</strong></h2>
 		<ul>
